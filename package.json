@@ -1,0 +1,21 @@
+{
+    "name": "rui-color-themes",
+    "displayName": "Rui Color Themes",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.51.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Rui Cobalt",
+                "uiTheme": "vs-dark",
+                "path": "./themes/RuiCobalt.json"
+            }
+        ]
+    }
+}
