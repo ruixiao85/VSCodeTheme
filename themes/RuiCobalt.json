@@ -20,7 +20,7 @@
   "colors": {
     "menu.selectionForeground": "#e5e5e5",
     "menubar.selectionBackground": "#0d3a58",
-    "activityBar.background": "#003064",
+    "activityBar.background": "#002f61",
     "activityBar.border": "#555555",
     "activityBar.dropBackground": "#0d3a58",
     "activityBar.foreground": "#e5e5e5",
@@ -43,7 +43,7 @@
     "dropdown.background": "#193549",
     "dropdown.border": "#15232d",
     "dropdown.foreground": "#e5e5e5",
-    "editor.background": "#003064",
+    "editor.background": "#002f61",
     "editor.foreground": "#e5e5e5",
     "editor.findMatchBackground": "#FF720066",
     "editor.findMatchHighlightBackground": "#CAD40F66",
@@ -139,7 +139,7 @@
     "notifications.background": "#122738",
     "notifications.border": "#ffc600",
     "notificationLink.foreground": "#ffc600",
-    "panel.background": "#003064",
+    "panel.background": "#002f61",
     "panel.border": "#aeaa35",
     "panelTitle.activeBorder": "#ffc600",
     "panelTitle.activeForeground": "#ffc600",
@@ -165,7 +165,7 @@
     "scrollbarSlider.background": "#1F466280",
     "scrollbarSlider.hoverBackground": "#406179cc",
     "selection.background": "#027dff",
-    "sideBar.background":"#003064DD",
+    "sideBar.background":"#002f61DD",
     "sideBar.border": "#aeaa35",
     "sideBar.foreground": "#aaa",
     "sideBarSectionHeader.background": "#193549",
@@ -208,7 +208,7 @@
     "terminal.ansiBrightMagenta": "#fb94ff",
     "terminal.ansiBrightCyan": "#80fcff",
     "terminal.ansiBrightWhite": "#ffffff",
-    "terminal.background":"#003064",
+    "terminal.background":"#002f61",
     "terminal.foreground": "#e5e5e5",
     "terminalCursor.background": "#ffc600",
     "terminalCursor.foreground": "#ffc600",
@@ -302,14 +302,14 @@
       "name": "Meta Brace",
       "scope": "meta.brace",
       "settings": {
-        "foreground": "#e1efff"
+        "foreground": "#e5e5e5"
       }
     },
     {
       "name": "Punctuation",
       "scope": "punctuation",
       "settings": {
-        "foreground": "#e1efff"
+        "foreground": "#e5e5e5"
       }
     },
     {
@@ -378,14 +378,14 @@
       "name": "Support Variable Property DOM",
       "scope": "support.variable.property.dom",
       "settings": {
-        "foreground": "#e1efff"
+        "foreground": "#e5e5e5"
       }
     },
     {
       "name": "Variable",
       "scope": "variable",
       "settings": {
-        "foreground": "#e1efff"
+        "foreground": "#e5e5e5"
       }
     },
     {
@@ -496,7 +496,7 @@
       "name": "[INI] - Entity",
       "scope": "source.ini entity",
       "settings": {
-        "foreground": "#e1efff"
+        "foreground": "#e5e5e5"
       }
     },
     {
@@ -562,14 +562,14 @@
         "source.json punctuation.definition.string"
       ],
       "settings": {
-        "foreground": "#e1efff"
+        "foreground": "#e5e5e5"
       }
     },
     {
       "name": "[MARKDOWN] - Heading Punctuation",
       "scope": "punctuation.definition.heading.markdown",
       "settings": {
-        "foreground": "#e1efff"
+        "foreground": "#e5e5e5"
       }
     },
     {
@@ -588,7 +588,7 @@
       "name": "[MARKDOWN] - Paragraph",
       "scope": "meta.paragraph.markdown",
       "settings": {
-        "foreground": "#e1efff"
+        "foreground": "#e5e5e5"
       }
     },
     {
@@ -723,7 +723,7 @@
       "name": "[TYPESCRIPT] - Punctuation Parameters",
       "scope": "source.ts punctuation.definition.parameters",
       "settings": {
-        "foreground": "#e1efff"
+        "foreground": "#e5e5e5"
       }
     },
     {

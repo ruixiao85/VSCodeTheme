@@ -3,7 +3,7 @@
     "displayName": "Rui Color Themes",
     "description": "",
     "publisher": "ruixiao85",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "engines": {
         "vscode": "^1.50.0"
     },
@@ -17,17 +17,17 @@
     "contributes": {
         "themes": [
             {
-                "label": "RuiTopaz",
+                "label": "Rui Topaz",
                 "uiTheme": "vs",
                 "path": "./themes/RuiTopaz.json"
             },
             {
-                "label": "RuiCobalt",
+                "label": "Rui Cobalt",
                 "uiTheme": "vs-dark",
                 "path": "./themes/RuiCobalt.json"
             },
             {
-                "label": "RuiEmerald",
+                "label": "Rui Emerald",
                 "uiTheme": "vs-dark",
                 "path": "./themes/RuiEmerald.json"
             }
