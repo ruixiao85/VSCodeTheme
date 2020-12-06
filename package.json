@@ -15,7 +15,17 @@
                 "label": "Rui Cobalt",
                 "uiTheme": "vs-dark",
                 "path": "./themes/RuiCobalt.json"
-            }
+            },
+            {
+                "label": "Rui Emerald",
+                "uiTheme": "vs-dark",
+                "path": "./themes/RuiEmerald.json"
+            },
+            {
+                "label": "Rui Topaz",
+                "uiTheme": "vs",
+                "path": "./themes/RuiTopaz.json"
+            },
         ]
     }
 }

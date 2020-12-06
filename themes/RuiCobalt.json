@@ -769,7 +769,7 @@
       }
     },
     {
-      "name": "Italicsify for fonts",
+      "name": "Italicize for fonts",
       "scope": [
         "modifier",
         "this",
