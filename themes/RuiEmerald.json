@@ -1045,10 +1045,11 @@
       }
     },
     {
-      "scope": "meta.function-call.generic.python",
+      "name": "function-call",
+      "scope": ["variable.function","entity.name.function","meta.function-call"],
       "settings": {
-        "foreground": "#61afef"
-      }
+        "foreground": "#61afef",
+      },
     },
     {
       "name": "Italicize for fonts",

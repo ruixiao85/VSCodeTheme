@@ -2,9 +2,14 @@
     "name": "rui-color-themes",
     "displayName": "Rui Color Themes",
     "description": "",
-    "version": "0.0.1",
+    "publisher": "ruixiao85",
+    "version": "0.0.2",
     "engines": {
-        "vscode": "^1.51.0"
+        "vscode": "^1.50.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ruixiao85/VSCodeTheme"
     },
     "categories": [
         "Themes"
@@ -12,20 +17,20 @@
     "contributes": {
         "themes": [
             {
-                "label": "Rui Cobalt",
+                "label": "RuiTopaz",
+                "uiTheme": "vs",
+                "path": "./themes/RuiTopaz.json"
+            },
+            {
+                "label": "RuiCobalt",
                 "uiTheme": "vs-dark",
                 "path": "./themes/RuiCobalt.json"
             },
             {
-                "label": "Rui Emerald",
+                "label": "RuiEmerald",
                 "uiTheme": "vs-dark",
                 "path": "./themes/RuiEmerald.json"
-            },
-            {
-                "label": "Rui Topaz",
-                "uiTheme": "vs",
-                "path": "./themes/RuiTopaz.json"
-            },
+            }
         ]
     }
 }

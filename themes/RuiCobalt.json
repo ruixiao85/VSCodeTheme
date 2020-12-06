@@ -795,8 +795,8 @@
       },
     },
     {
-      "name": "variable.function",
-      "scope": ["variable.function","entity.name.function",],
+      "name": "function-call",
+      "scope": ["variable.function","entity.name.function","meta.function-call"],
       "settings": {
         "foreground": "#9effff",
       },

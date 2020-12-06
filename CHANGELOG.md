@@ -8,4 +8,6 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - Initial release
 
-Rui Cobalt derived from the [Cobalt2](https://github.com/wesbos/cobalt2-vscode) theme.
+Rui Cobalt is derived from the [Cobalt2](https://github.com/wesbos/cobalt2-vscode) theme.
+Rui Emerald and Topaz are derived from the [Yi Dark & Light Themes](https://github.com/wangweixuan/yithemes) theme.
+
