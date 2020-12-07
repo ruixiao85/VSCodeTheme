@@ -1,9 +1,9 @@
 {
     "name": "rui-color-themes",
     "displayName": "Rui Color Themes",
-    "description": "",
+    "description": "3 color themes: 2 dark & 1 light",
     "publisher": "ruixiao85",
-    "version": "0.0.6",
+    "version": "0.0.7",
     "engines": {
         "vscode": "^1.50.0"
     },
@@ -14,13 +14,9 @@
     "categories": [
         "Themes"
     ],
+    "keywords": ["Dark Theme", "Light Theme", "Cobalt", "Emerald", "Topaz"],
     "contributes": {
         "themes": [
-            {
-                "label": "Rui Topaz",
-                "uiTheme": "vs",
-                "path": "./themes/RuiTopaz.json"
-            },
             {
                 "label": "Rui Cobalt",
                 "uiTheme": "vs-dark",
@@ -30,6 +26,11 @@
                 "label": "Rui Emerald",
                 "uiTheme": "vs-dark",
                 "path": "./themes/RuiEmerald.json"
+            },
+            {
+                "label": "Rui Topaz",
+                "uiTheme": "vs",
+                "path": "./themes/RuiTopaz.json"
             }
         ]
     }
