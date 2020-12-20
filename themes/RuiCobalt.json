@@ -288,8 +288,8 @@
       }
     },
     {
-      "name": "Meta Target",
-      "scope": "meta.scope.target",
+      "name": "Make Target",
+      "scope": ["meta.scope.target","entity.name.function.target"],
       "settings": {
         "foreground": "#ffc600"
       }
