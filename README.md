@@ -1,6 +1,6 @@
 # README
 
-2020-12-06 Here are 3 color themes that are customized to my taste. Screenshots are taken with R and Python as I have been working with them the most.
+
 
 *Rui Cobalt* was derived from the [Cobalt2](https://github.com/wesbos/cobalt2-vscode) theme.
 
@@ -14,3 +14,10 @@
 ![Rui Topaz](https://raw.githubusercontent.com/ruixiao85/VSCodeTheme/main/doc/RuiTopaz.png)
 
 
+2020-12-06 Initial version
+- Here are 3 color themes that are customized to my taste. Screenshots are taken with R and Python as I have been working with them the most.
+
+...
+
+2020-12-20 0.0.10
+- Cobalt: -green@string, +blue@comment, -white@text, ~yellow@make.target.
