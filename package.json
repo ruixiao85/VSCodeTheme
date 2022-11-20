@@ -2,6 +2,7 @@
     "name": "rui-color-themes",
     "displayName": "Rui Color Themes",
     "description": "3 color themes: 2 dark & 1 light",
+    "icon": "icon.png",
     "publisher": "ruixiao85",
     "version": "1.0.0",
     "engines": {
