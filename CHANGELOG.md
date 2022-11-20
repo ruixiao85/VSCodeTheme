@@ -21,6 +21,8 @@ Rui Emerald and Topaz are derived from the [Yi Dark & Light Themes](https://gith
   - Cobalt: -cyna@meta +yellow@variable.parameter.
 - 2020-12-20 0.0.11
   - Cobalt: -green@string, +blue@comment, -white@text, ~yellow@make.target.
+- 2022-11-20 1.0.0
+  - adjust further for markdown, json, sql.
 
 
 
