@@ -4,7 +4,7 @@
     "description": "3 color themes: 2 dark & 1 light",
     "icon": "icon.png",
     "publisher": "ruixiao85",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "engines": {
         "vscode": "^1.50.0"
     },
