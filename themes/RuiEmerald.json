@@ -250,25 +250,25 @@
     "editor.snippetTabstopHighlightBackground": "#528bff3d"
   },
   "tokenColors": [
-    { "settings": { "foreground": "#85968c" }, "scope": ["comment", "punctuation.definition.comment"] },
-    { "settings": { "foreground": "#dddddd" }, "scope": ["punctuation"] },
+    { "settings": { "foreground": "#87988e" }, "scope": ["comment", "punctuation.definition.comment"] },
+    { "settings": { "foreground": "#e0e0e0" }, "scope": ["punctuation"] },
     { "settings": { "foreground": "#ee7766" }, "scope": ["punctuation.definition.heading","punctuation.definition.list"] },
 
 
-    { "settings": { "foreground": "#c295f4" }, "scope": ["keyword"] },
-    { "settings": { "foreground": "#d695e0" }, "scope": ["storage"] },
-    { "settings": { "foreground": "#ee9898" }, "scope": ["constant"] },
-    { "settings": { "foreground": "#a4d086" }, "scope": ["variable", "meta.function-call.arguments"] },
-    { "settings": { "foreground": "#6dd483" }, "scope": ["string"] },
+    { "settings": { "foreground": "#c396f5" }, "scope": ["keyword"] },
+    { "settings": { "foreground": "#d797e0" }, "scope": ["storage"] },
+    { "settings": { "foreground": "#ee9999" }, "scope": ["constant"] },
+    { "settings": { "foreground": "#a6d187" }, "scope": ["variable", "meta.function-call.arguments"] },
+    { "settings": { "foreground": "#6cd681" }, "scope": ["string"] },
 
-    { "settings": { "foreground": "#23cbc2" }, "scope": ["support"] },
+    { "settings": { "foreground": "#ddb081" }, "scope": ["support"] },
     { "settings": { "foreground": "#e8c988" }, "scope": ["entity"] },
-    { "settings": { "foreground": "#47acee" }, "scope": ["support.function", "meta.function-call", "entity.name.tag"] },
-    { "settings": { "foreground": "#cecc85" }, "scope": ["variable.language.special", "variable.parameter.function.language.special"] },
+    { "settings": { "foreground": "#44bec6" }, "scope": ["support.function", "meta.function-call", "entity.name.tag"] },
+    { "settings": { "foreground": "#cfcc85" }, "scope": ["variable.language.special", "variable.parameter.function.language.special"] },
     { "settings": { "foreground": "#cecdcc" }, "scope": ["meta"] },
 
 
-    { "settings": { "foreground": "#ddb081" }, "scope": ["markup"] },
+    { "settings": { "foreground": "#48adef" }, "scope": ["markup"] },
     { "settings": { "fontStyle": "bold" }, "scope": ["markup.bold", "markup.heading"] },
     { "settings": { "fontStyle": "italic" }, "scope": ["markup.italic"] },
 
