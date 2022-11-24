@@ -235,22 +235,26 @@
   },
   "tokenColors": [
     { "settings": { "foreground": "#1699ff" }, "scope": ["comment", "punctuation.definition.comment"] },
-    { "settings": { "foreground": "#eeeeee" }, "scope": ["punctuation"] },
+    { "settings": { "foreground": "#dddddd" }, "scope": ["punctuation"] },
+    { "settings": { "foreground": "#ffaa22" }, "scope": ["punctuation.definition.heading","punctuation.definition.list"] },
 
-    { "settings": { "foreground": "#ff9dba" }, "scope": ["constant"] },
-    { "settings": { "foreground": "#d8a0ff" }, "scope": ["support.function", "meta.function-call", "entity.name.tag"] },
+    { "settings": { "foreground": "#ffa5bb" }, "scope": ["constant"] },
+    { "settings": { "foreground": "#dba2ff" }, "scope": ["support.function", "meta.function-call", "entity.name.tag"] },
     { "settings": { "foreground": "#ffa406" }, "scope": ["keyword"] },
-    { "settings": { "foreground": "#e4c400" }, "scope": ["entity"] },
-    { "settings": { "foreground": "#ffba16" }, "scope": ["variable.language.special", "variable.parameter.function.language.special"] },
-    { "settings": { "foreground": "#61ccef" }, "scope": ["meta"] },
-    { "settings": { "foreground": "#61ccef" }, "scope": ["support"] },
-    { "settings": { "foreground": "#cccb53" }, "scope": ["variable", "meta.function-call.arguments"] },
+    { "settings": { "foreground": "#ff9b47" }, "scope": ["entity"] },
+    { "settings": { "foreground": "#f0ac49" }, "scope": ["variable.language.special", "variable.parameter.function.language.special"] },
+    { "settings": { "foreground": "#efefef" }, "scope": ["meta"] },
+    { "settings": { "foreground": "#66ccff" }, "scope": ["support"] },
+    { "settings": { "foreground": "#cfcc53" }, "scope": ["variable", "meta.function-call.arguments"] },
     { "settings": { "foreground": "#66d683" }, "scope": ["string"] },
     { "settings": { "foreground": "#eea812" }, "scope": ["storage"] },
 
+    { "settings": { "foreground": "#88ccee" }, "scope": ["markup"] },
+    { "settings": { "fontStyle": "bold" }, "scope": ["entity", "markup.bold", "markup.heading"] },
+    { "settings": { "fontStyle": "italic" }, "scope": ["markup.italic"] },
 
     {"settings": { "fontStyle": "italic" }, "scope": [
-      "comment", "keyword", "storage", "entity.name", "modifier", "this", "constant",
+      "comment", "keyword", "storage", "modifier", "this", "constant",
       "variable.language.special", "variable.parameter.function.language.special",
       ] }
     ]

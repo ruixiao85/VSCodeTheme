@@ -25,6 +25,7 @@ Rui Emerald and Topaz are derived from the [Yi Dark & Light Themes](https://gith
   - adjust further for markdown, json, sql.
 - 2022-11-22 1.1.0
   - complete recoloring of all 3 themes.
-
+- 2022-11-23 1.1.1
+  - small tweaks after recoloring, most meta & markup.
 
 

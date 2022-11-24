@@ -268,15 +268,14 @@
     { "settings": { "foreground": "#cecdcc" }, "scope": ["meta"] },
 
 
+    { "settings": { "foreground": "#ddb081" }, "scope": ["markup"] },
+    { "settings": { "fontStyle": "bold" }, "scope": ["markup.bold", "markup.heading"] },
+    { "settings": { "fontStyle": "italic" }, "scope": ["markup.italic"] },
+
     {"settings": { "fontStyle": "italic" }, "scope": [
       "comment", "keyword", "storage", "entity.name", "modifier", "this",
       "variable.language.special", "variable.parameter.function.language.special",
       ] },
-
-      { "settings": { "foreground": "#ddb081" }, "scope": ["markup"] },
-      { "settings": { "fontStyle": "bold" }, "scope": ["markup.bold", "markup.heading"] },
-      { "settings": { "fontStyle": "italic" }, "scope": ["markup.italic"] },
-
 
     ]
   }
