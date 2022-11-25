@@ -4,7 +4,7 @@
     "description": "3 color themes: 2 dark & 1 light",
     "icon": "icon.png",
     "publisher": "ruixiao85",
-    "version": "1.1.2",
+    "version": "1.2.0",
     "engines": {
         "vscode": "^1.50.0"
     },
@@ -15,12 +15,17 @@
     "categories": [
         "Themes"
     ],
-    "keywords": ["Dark Theme", "Light Theme", "Cobalt", "Emerald", "Topaz"],
+    "keywords": ["Color", "Theme", "Dark Theme", "Light Theme", "Cobalt", "Emerald", "Topaz", "Sapphire", "Jade", "Opal"],
     "contributes": {
         "themes": [
-            { "label": "Rui Cobalt", "uiTheme": "vs-dark", "path": "./themes/RuiCobalt.json" }
-            ,{ "label": "Rui Emerald", "uiTheme": "vs-dark", "path": "./themes/RuiEmerald.json" }
-            ,{ "label": "Rui Topaz", "uiTheme": "vs", "path": "./themes/RuiTopaz.json" }
+            { "label": "Rui Cobalt", "uiTheme": "vs-dark", "path": "./themes/RuiCobalt.json" },
+            { "label": "Rui Sapphire", "uiTheme": "vs-dark", "path": "./themes/RuiSapphire.json" },
+
+            { "label": "Rui Emerald", "uiTheme": "vs-dark", "path": "./themes/RuiEmerald.json" },
+            { "label": "Rui Jade", "uiTheme": "vs-dark", "path": "./themes/RuiJade.json" },
+
+            { "label": "Rui Topaz", "uiTheme": "vs", "path": "./themes/RuiTopaz.json" },
+            { "label": "Rui Opal", "uiTheme": "vs", "path": "./themes/RuiOpal.json" }
         ]
     }
 }

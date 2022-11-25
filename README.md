@@ -1,17 +1,19 @@
 # README
 
+- *Rui Cobalt* was derived from the [Cobalt2](https://github.com/wesbos/cobalt2-vscode) theme.
+	![Rui Cobalt](https://raw.githubusercontent.com/ruixiao85/VSCodeTheme/main/doc/RuiCobalt.png)
+- *Rui Sapphire*, recolored in 2022 from Rui Cobalt
+	![Rui Sapphire](https://raw.githubusercontent.com/ruixiao85/VSCodeTheme/main/doc/RuiSapphire.png)
 
+- *Rui Emerald* was derived from the [Yi Dark & Light Themes](https://github.com/wangweixuan/yithemes) theme.
+	![Rui Emerald](https://raw.githubusercontent.com/ruixiao85/VSCodeTheme/main/doc/RuiEmerald.png)
+- *Rui Jade*, recolored in 2022 from Rui Emerald
+	![Rui Jade](https://raw.githubusercontent.com/ruixiao85/VSCodeTheme/main/doc/RuiJade.png)
 
-*Rui Cobalt* was derived from the [Cobalt2](https://github.com/wesbos/cobalt2-vscode) theme.
-
-![Rui Cobalt](https://raw.githubusercontent.com/ruixiao85/VSCodeTheme/main/doc/RuiCobalt.png)
-
-
-*Rui Emerald* and *Rui Topaz* were derived from the [Yi Dark & Light Themes](https://github.com/wangweixuan/yithemes) theme.
-
-![Rui Emerald](https://raw.githubusercontent.com/ruixiao85/VSCodeTheme/main/doc/RuiEmerald.png)
-
-![Rui Topaz](https://raw.githubusercontent.com/ruixiao85/VSCodeTheme/main/doc/RuiTopaz.png)
+- *Rui Topaz* was derived from the [Yi Dark & Light Themes](https://github.com/wangweixuan/yithemes) theme.
+- ![Rui Topaz](https://raw.githubusercontent.com/ruixiao85/VSCodeTheme/main/doc/RuiTopaz.png)
+- *Rui Opal*, recolored in 2022 from Rui Topaz
+![Rui Opal](https://raw.githubusercontent.com/ruixiao85/VSCodeTheme/main/doc/RuiOpal.png)
 
 
 2020-12-06 Initial version
@@ -19,12 +21,8 @@
 
 ...
 
-- 2022-11-20 1.0.0
-  - adjust further for markdown, json, sql.
-
-- 2022-11-22 1.1.0
-  - complete recoloring of all 3 themes.
-- 2022-11-23 1.1.1
-  - small tweaks after recoloring, mostly meta & markup.
-- 2022-11-23 1.1.2
-  - small tweaks after recoloring, mostly emerald theme.
+- 2022-11-25 1.2.0
+  - keep previous themes with the old names and add new names with recolored versions.
+    - Rui Cobalt -> Rui Sapphire
+    - Rui Emerald -> Rui Jade
+    - Rui Topaz -> Rui Opal
